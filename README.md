@@ -1,3 +1,7 @@
+# Why a fork?
+
+Fork of SurveyJS + Angular Quickstart Template for generating surveys for institutions at the University of Augsburg.
+
 # SurveyJS + Angular Quickstart Template 
 
 SurveyJS is a set of JavaScript components that allow you and your users to build surveys / forms, store them in your database, and visualize survey results for data analysis. This quick start template is built upon Angular 12 and uses the following SurveyJS components:
