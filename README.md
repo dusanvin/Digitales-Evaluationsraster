@@ -14,7 +14,7 @@ SurveyJS is a set of JavaScript components that allow you and your users to buil
 ## Run the application
 
 ```bash
-git clone https://github.com/surveyjs/surveyjs_angular_cli.git
+git clone https://github.com/dusanvin/surveyjs_angular_cli.git
 cd surveyjs_angular_cli
 npm i
 npm run start
